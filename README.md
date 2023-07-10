@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **JavaScript, DSA and Node JS**
 
-- 📫 How to reach me **rajayush1412@gmail.com**
+- 📫 How to reach me: **rajayush1412@gmail.com**
 
-- ⚡ Fun fact **You can easily interact with me.**
+- 📧 Work related queries: **ayush.dev.new@gmail.com** 
+
+- ⚡ Fun fact: **You can easily interact with me.**
 
 <h3 align="left">My Social Profiles:</h3>
 <p align="left">
