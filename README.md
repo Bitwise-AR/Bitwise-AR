@@ -11,7 +11,7 @@
 
 - 📧 Work related queries: **ayush.dev.new@gmail.com** 
 
-- ⚡ Fun fact: **You can easily interact with me.**
+- ⚡ Fact: **People lie; Code doesn't (•‿•).**
 
 <h3 align="left">My Social Profiles:</h3>
 <p align="left">
