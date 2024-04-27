@@ -37,9 +37,6 @@
   <a href="https://www.reddit.com/user/tbhdankAR/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=reddit&logo=reddit&label=&color=ff4500&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/19299912/ayush-raj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  </a>
 </div>
 <br>
 
