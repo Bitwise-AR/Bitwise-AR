@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2MDA3OTcsIm5iZiI6MTcxNzYwMDQ5NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDE1MTQ1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1NmY3OTA3NGI5N2UzYzUwMjFmNTFkNjk1MmFlNTJkMGI5NzhjOTM4MDMxOWMwZTgwM2E5N2ZmMjhmNGQyYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.guCPlQ8shaUHml6Y0tTJIicjvIVDRHrnozmFbywL6NU)
 <h1 align="center">Hi<img src="https://media3.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47o3q4k7laqprqnh89n52pqjbjnjrlefgdtfz3ulzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">, I'm Ayush Raj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width=30>A Coding Aficionado from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
 
 <p align="left" > Visitor's count <img src="https://media4.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif?cid=ecf05e47x5muoglxq2k5i6uskhn6s7moqcs8e0x3xxbw7jl2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> <img src="https://komarev.com/ghpvc/?username=bitwise-ar&label=Profile%20views&color=faa539&style=flat" alt="bitwise-ar" /> </p>
 
@@ -9,7 +9,7 @@
 
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Studying Computer Science and Engineering at Lovely Professional University 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Java, DSA and R Studio**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Java, DSA and React**
 
 - <img src="https://media0.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif?cid=ecf05e47t6iesdef3fhxvwouzy40uqqidxzpur4qq4i56h08&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> How to reach me: **rajayush1412@gmail.com**
 
@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/_ayushxraj_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=f6613e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/ayushra44178999" target="_blank">
+  <a href="https://twitter.com/mauLANA_ROADS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=1da1f2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/bitwise_ar" target="_blank">
