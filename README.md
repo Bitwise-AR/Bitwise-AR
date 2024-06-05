@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=f6613e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/mauLANA_ROADS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=1da1f2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/twitter/follow/Ayush%20Raj?style=social" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/bitwise_ar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
