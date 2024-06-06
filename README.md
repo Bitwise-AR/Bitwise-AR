@@ -19,7 +19,7 @@
 
 <h3 align="center">**<b>People lie; Code doesn't (•‿•).**</b></p>
 
-### 🕵 Take a look at my repositories and let's get in touch!<br>
+### 🕵 Let's Connect!<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bitwisear/" target="_blank">
