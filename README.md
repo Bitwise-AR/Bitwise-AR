@@ -9,7 +9,7 @@
 
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Studying Computer Science and Engineering at Lovely Professional University 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Java, DSA and React**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **DSA, Angular and React**
 
 - <img src="https://media0.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif?cid=ecf05e47t6iesdef3fhxvwouzy40uqqidxzpur4qq4i56h08&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> How to reach me: **rajayush1412@gmail.com**
 
