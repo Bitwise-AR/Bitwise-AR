@@ -60,7 +60,7 @@
 <br>
 <div>
   
-### 📈 Github Stats:
+# 📈 Github Stats
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bitwise-ar&theme=great-gatsby&layout=compact" alt="bitwise-ar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bitwise-ar&theme=great-gatsby&show_icons=true&locale=en" alt="bitwise-ar" /></p>
