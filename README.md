@@ -31,7 +31,7 @@
   <a href=https://www.snapchat.com/add/ayuush.raj?share_id=96r803l-8fI&locale=en-US" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"  />
   </a>
-  <a href="https://twitter.com/mauLANA_ROADS" target="_blank">
+  <a href="https://x.com/mauLANA_ROADS" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="https://in.pinterest.com/rajayush1412/" target="_blank">
