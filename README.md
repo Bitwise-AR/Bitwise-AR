@@ -1,4 +1,4 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2MDA3OTcsIm5iZiI6MTcxNzYwMDQ5NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDE1MTQ1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1NmY3OTA3NGI5N2UzYzUwMjFmNTFkNjk1MmFlNTJkMGI5NzhjOTM4MDMxOWMwZTgwM2E5N2ZmMjhmNGQyYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.guCPlQ8shaUHml6Y0tTJIicjvIVDRHrnozmFbywL6NU)
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4MTI2ODYsIm5iZiI6MTcxOTgxMjM4NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAxVDA1Mzk0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3ODY0NjRkMjA0MmQzODNiZmNhNTY1NDVlNTgzOTQ1ZTc0ZmNiYTZlN2QzMjFmZDhjYjY5OTRiNzU3MTBlNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TkiRKHMkfVX79aBLM79vFVEXQhbAqmcI-x5cs1tw3Mw)
 <h1 align="center">Hi<img src="https://media3.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47o3q4k7laqprqnh89n52pqjbjnjrlefgdtfz3ulzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">, I'm Ayush Raj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width=30>A Coding Aficionado from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
@@ -18,6 +18,7 @@
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <h3 align="center">**<b>People lie; Code doesn't (•‿•).**</b></p>
+
 
 # 🕵 Let's Connect!
 
@@ -59,6 +60,8 @@
 
 <br>
 <div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   
 # 📈 Github Stats
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bitwise-ar&theme=great-gatsby&layout=compact" alt="bitwise-ar" /></p>
