@@ -66,8 +66,7 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   
 # 📈 Github Stats
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bitwise-ar&theme=great-gatsby&layout=compact" alt="bitwise-ar" /></p>
-</br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bitwise-ar&theme=great-gatsby&layout=compact" alt="bitwise-ar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bitwise-ar&theme=great-gatsby&show_icons=true&locale=en" alt="bitwise-ar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitwise-ar&theme=great-gatsby" alt="bitwise-ar" /></p>
