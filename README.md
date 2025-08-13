@@ -28,16 +28,16 @@
   <a href="https://www.linkedin.com/in/bitwisear/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_ayushxraj_/" target="_blank">
+  <a href="https://www.instagram.com/perhapsayush/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  />
   </a>
-  <a href=https://www.snapchat.com/add/ayuush.raj?share_id=96r803l-8fI&locale=en-US" target="_blank">
+  <a href=https://www.snapchat.com/add/ayyush.raj?share_id=96r803l-8fI&locale=en-US" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"  />
   </a>
-  <a href="https://x.com/mauLANA_ROADS" target="_blank">
+  <a href="https://x.com/detroit_xt" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
-  <a href="https://in.pinterest.com/rajayush1412/" target="_blank">
+  <a href="https://in.pinterest.com/sojaoayush/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" />
   </a>
   <a href="https://t.me/GenuineAyush" target="_blank">
