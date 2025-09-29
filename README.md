@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi<img src="https://media3.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47o3q4k7laqprqnh89n52pqjbjnjrlefgdtfz3ulzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">, I'm Ayush Raj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width=30>A Coding Aficionado from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif"
+
 
 <p align="left" > Visitor's count <img src="https://media4.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif?cid=ecf05e47x5muoglxq2k5i6uskhn6s7moqcs8e0x3xxbw7jl2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> <img src="https://komarev.com/ghpvc/?username=bitwise-ar&label=Profile%20views&color=faa539&style=flat" alt="bitwise-ar" /> </p>
 
