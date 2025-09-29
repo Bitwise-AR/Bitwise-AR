@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![MasterHead](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 <h1 align="center">Hi<img src="https://media3.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47o3q4k7laqprqnh89n52pqjbjnjrlefgdtfz3ulzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">, I'm Ayush Raj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width=30>A Coding Aficionado from India</h3>
 
@@ -9,7 +9,7 @@
 
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Studying Computer Science and Engineering at Lovely Professional University 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **DSA, Spring Boot and React**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **LangChain, Spring Boot and React**
 
 - <img src="https://media0.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif?cid=ecf05e47t6iesdef3fhxvwouzy40uqqidxzpur4qq4i56h08&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> How to reach me: **rajayush1412@gmail.com**
 
