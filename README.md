@@ -3,7 +3,7 @@
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width=30>A Coding Aficionado from India</h3>
 
 
-<p align="left" > Visitor's count <img src="https://media4.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif?cid=ecf05e47x5muoglxq2k5i6uskhn6s7moqcs8e0x3xxbw7jl2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> <img src="https://komarev.com/ghpvc/?username=bitwise-ar&label=Profile%20views&color=faa539&style=flat" alt="bitwise-ar" /> </p>
+<img src="https://komarev.com/ghpvc/?username=bitwise-ar&label=Profile%20views&color=faa539&style=flat" alt="bitwise-ar" /> </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
